@@ -1,0 +1,14 @@
+{
+  "name": "furai-stats-backend",
+  "version": "1.0.0",
+  "description": "Lightweight SQLite click tracker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.1.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
